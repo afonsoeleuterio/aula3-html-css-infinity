@@ -1,0 +1,42 @@
+/* h1{
+    color: blue;
+}
+
+.estilizado{
+    color: rgb(153, 119, 34);
+}
+
+#diferentao{
+    color: rgb(173, 55, 55);
+}
+
+#caixinha{
+    background-color: aqua;
+}
+
+#caixinha .estilizado{
+    color: green
+} */
+
+body{
+    background-color: #12232d;
+    color: #fffaf2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    font-size: 36px;
+    font-style: italic;
+    color: #e75440
+}
+
+.subtitulo{
+    font-size: 24px;
+    text-decoration: underline;
+    color: #eac048;
+}
+
+img{
+    max-width: 500px;
+}
+
